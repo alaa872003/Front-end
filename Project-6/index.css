@@ -1,0 +1,17 @@
+html {
+    --color: rgb(178, 159, 159);
+}
+
+.paragraph {
+    padding: 10px;
+    margin: 20px 30px;
+    background-color: var(--color);
+
+}
+
+button {
+    border: 5px solid black;
+    border-radius: 5px;
+
+
+}
