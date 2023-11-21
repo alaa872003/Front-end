@@ -1,0 +1,45 @@
+/*styling html*/
+
+html {
+    text-align: center;
+    font-size: 30px;
+    --background: antiquewhite;
+
+}
+
+
+/*styling header*/
+.header {
+    background-color: var(--background);
+    width: 0.5 vw;
+
+}
+
+
+/*styling main*/
+
+.main {
+    font-size: 20px;
+    size: 50%;
+
+
+}
+
+.main_header {
+    font-size: 3 rem;
+}
+
+/*styling paragraph*/
+
+.paragraph {
+
+    background: rgb(224, 221, 221);
+    font-size: 2 em;
+    background-size: 1 em;
+}
+
+/*styling footer*/
+.footer {
+    background-color: var(--background);
+    font-size: 2 em;
+}
